@@ -1,0 +1,329 @@
+.banner{
+    border-radius: 16px;
+background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+background-image: url(Banner\ Image.png);
+width: 1320px;
+height: 600px;
+margin: 50px 140px 50px 140px;
+background-repeat: no-repeat;
+}
+.banner-title{
+    color: #FFF;
+    font-size: 32px;
+    text-align: center;
+}
+.Banner-heading{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900px;
+    width: 632px;
+         margin: 233px 344px 180px 344px;
+         font-family: Merriweather;
+}
+.banner-2{
+    display: block;
+    align-items: center;
+    margin-left: 398px;
+    background-color:#FFF;
+    max-width: 800px;
+    text-align: center;
+}
+.discount{
+    color: red;
+    font-weight: 900;
+    font-size: 88px;
+}
+.under-dis{
+    color: red;
+    font-size: 24px;
+}
+.CATEGORIES{
+    color: #070211;
+    font-size: 48px;
+}
+.section-img{
+    background-image:url(Vectorrr.png);
+    background-repeat: no-repeat;
+    height:600px;
+    width: 1320px;
+    margin: 50px 140px 50px 140px;
+    display: flex;
+    justify-content: space-between;
+}
+.new-year{
+    display: flex;
+    width: 319.83px;
+    height: 464.662px;
+    padding: 0.008px 0px 0px 0px;
+    margin-top: 72px;
+    margin-right: 142px;
+}
+.midnight{
+    color: #FFF;
+    font-size: 64px;
+    
+}
+.section-title{
+    max-width: 500px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.paragraph{
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.80);
+    font-weight: 400;
+}
+.btn{
+    padding: 15px;
+    border-radius: 20px;
+    border: none;
+   background-color: #070211;
+   color: #FFF;
+    
+}
+.join-Now{
+    height: 482px;
+    width: 1320px;
+    font-size: 32px;
+    background-color: antiquewhite;
+    margin: 50px 140px 50px 140px;
+}
+.join-us-2{
+    text-align: center;
+    margin: 100px 386px 214px 385px;
+    font-size: 32px;
+    align-items: center;
+   
+}
+.button{
+    background-color: red;
+    color: #FFF;
+    width: 120px;
+    height: 35px;
+    border: none;
+    border-radius: 08px;
+    font-size: 20px;
+}
+.banner-3{
+    display: flex;
+    gap: 100px;
+    height: px;
+    width: 1320px;
+    margin-left: 140px;
+    background-color: antiquewhite;
+}
+.banner-3-1{
+    max-width: 500px;
+}
+.banner-3-2{
+    max-width: 500px;
+    width: 364.844px;
+    height: 364.844px;
+    border-radius: 463px;
+    border: 15px solid #F00;
+}
+.banner-3-3{
+    margin-top: 100px;
+    max-width: 500px;
+}
+.image{
+    width: 140px;
+    height: 140px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.banner-6-contrainer{
+    width: 1320px;
+    margin-left: 140px;
+     justify-content: space-around;
+    margin-top: 100px;
+}
+.banner-6-img-1{
+    width: 429px;
+    height: 433px;
+    border-radius: 16px 16px 0px 0px;
+    margin-bottom: none;
+    margin-right: 890px;
+    
+}
+.banner-6-bg{
+    background-image: url(Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 229px;
+    margin-top: 100px;
+}
+.banner-6-img-1{
+    height: 500px;
+    margin-bottom: 300px;
+}
+.banner-6-row-1{
+ display: flex;   
+}
+.banner-6-img-2{
+    width: 206.841px;
+    height: 206.841px;
+    margin-top: 300px;
+    max-width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.banner-7-contrainer{
+    width: 1320px;
+    background-color: white;
+    margin-top: 120px;
+    margin-left: 140px;
+}    
+.banner-7-row :hover{
+    padding: 10px;
+    border: 5px solid burlywood;
+}
+.banner-7-sub-title{
+    color: #F00;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.banner-7-title{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+.banner-7-description{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.banner-8-contrainer{
+    width:1320px ;
+    height: 616px;
+    background: rgba(255, 0, 0, 0.05);
+    margin-left: 140px;
+    text-align: center;
+    margin-top:100px;
+    margin: auto;
+}
+.banner-8{
+    margin-top: 100px;
+}
+.banner-8-image{
+    align-items: center;
+}
+.banner-8-title{
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+
+}
+.banner-8-description{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    
+}
+.banner-8-input{
+    width: 500px;
+    height: 70px;
+    border-radius:50px 0px 0px 50px;
+    background: #FFF;
+    border: none;
+}
+.banner-8-button{
+    width: 210px;
+    height: 70px;
+    border-radius: 0px 50px 50px 0px;
+    background: #ff0303;
+    border: none;
+    color: #FFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    width: 1600px;
+    height: 609px;
+    background-color: #070211;
+}
+.footer{
+    gap: 200px;
+}
+.divition{
+    margin-top: 150px;
+    margin-left: 70px;
+    font-size: 24px;
+}
+.divition-1{
+    margin-top:200px ;
+    margin-left: 400px;
+}
